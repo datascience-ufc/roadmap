@@ -1,0 +1,48 @@
+#+TITLE: Data Science UFC Planejamento 2019.2
+#+OPTIONS: toc:nil num:nil
+
+* 2019.2
+** Próximo Projeto
+
+Próximos passos do grupo de Data Science UFC:
++ Realizar um novo projeto
++ Esse projeto de preferência deve ser um problema de regressão
++ Mercado financeiro: moedas, imobiliário, investimentos, ações
++ O problema escolhido deverá ter um dataset supervisionado.
+
+Data estimada para início: agosto de 2019.
+
+** Atividades individuais nas férias
+
+Atividades para os membros:
+
++ Aprender os fundamentos da linguagem Python
++ Fundamentos de Probabilidade e Estatística
++ Aprender a lidar com a plataforma Jupyter como ferramenta de análise de dados
+
+Extra:
+
++ Estudar de bibliotecas de Python:
+  * numpy: computação númerica e álgebra linear
+  * pandas: manipulação de dados e processamento de tabelas
+  * sklearn: algoritmos de machine learning e reconhecimento de padrões
+
+
+Referências:
+
++ Sites de treinamento de Python e Matemática:
+
+  - ProjectEuler
+  - HackerRank
+  - CodeWars
+
++ Cursos de Python:
+
+  - Python para Zumbis (FERNANDO MASSANORI)
+  -
+
+** Apêndice
+
++ Criar mais visibilidade para o grupo: artigos, palestras...
++ Realizar uma palestra sobre o modelo de Espectro Autista
++ Criar um perfil do grupo no Instagram: Renoir
