@@ -1,4 +1,4 @@
-#+TITLE: Data Science UFC Planejamento 2019.2
+#+TITLE: Data Science UFC Planejamento
 #+OPTIONS: toc:nil num:nil
 
 * 2019.2
@@ -39,7 +39,6 @@ Referências:
 + Cursos de Python:
 
   - Python para Zumbis (FERNANDO MASSANORI)
-  -
 
 ** Apêndice
 
